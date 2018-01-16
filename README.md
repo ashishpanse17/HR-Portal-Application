@@ -1,0 +1,2 @@
+# HR-Portal-Application
+HR- Poratal is a java based platform that enables us to meet with all the requirements  of HR Department of any organization. It is basically design for performing various kinds of operations related to Hr Department of the company including daily work task report,measure the performance of each employee on the basis of their project timeline,&amp; store and update the work task report on daily basis.
